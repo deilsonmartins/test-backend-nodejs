@@ -1,3 +1,5 @@
+The basic documentation for this project can be accessed on the wiki.
+
 ## 🛠 Technology
 
 The following tools were used in the construction of the project:
