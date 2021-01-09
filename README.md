@@ -1,10 +1,10 @@
-## 🛠 Tecnologias
+## 🛠 Technology
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used in the construction of the project:
 
-- **NodeJS** — Um interpretador de javascript assíncrono
-- **Express** - Estrutura para desenvolvimento de Backend em Nodejs
-- **MongoDB** - Banco de dados não relacional
+- **NodeJS** — An asynchronous javascript interpreter
+- **Express** - Framework for backend development in Nodejs
+- **MongoDB** - Non-relational database
 
 ## 🚀 Execução do Projeto
 
@@ -15,6 +15,6 @@ $ npm install
 
 $ npm run dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333 
+# The server will start on the port:3333 - access http://localhost:3333 
 ```
 
